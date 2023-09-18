@@ -1,6 +1,7 @@
 import AllRoutes from "./AllRoutes/AllRoutes";
 import Navbar from "./components/Navbar";
 import "./App.css";
+import Footer from "./components/Footer";
 const middleLinks = [
   {
     tab: "SURFSCATES",
@@ -41,7 +42,8 @@ function App() {
   return (
     <div className="App">    
         <Navbar middleLinks={middleLinks} endLinks={endLinks}/>
-        <AllRoutes/>    
+        <AllRoutes/>   
+        <Footer/> 
     </div>
   );
 }

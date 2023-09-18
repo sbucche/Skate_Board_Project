@@ -1,0 +1,14 @@
+@media (max-width: 899px) {
+    .arrivals {
+        display: grid !important;
+        grid-template-columns: repeat(2,1fr) !important;
+    }
+  }
+
+  @media (min-width:  368px) and (max-width: 522px) {
+    /* … */
+    .arrivals {
+        display: grid !important;
+        grid-template-columns: repeat(1,1fr) !important;
+    }
+  }

@@ -5,6 +5,66 @@
       "title": "json-server",
       "author": "typicode"
     }
+  ],
+  "NewArrivals": [
+    {
+      "id": 1,
+      "title":"CARVER",
+      "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/1920w/products/756/4031/Carver2023_Completes_2UP_YangYin_CX__27477.1690987910.png",
+      "discription":"Carver x GRLSWIRL 31 Yang Yin CX Surfskate",
+      "price":"$270.00"
+    },
+    {
+      "id": 2,
+      "title":"CARVER",
+      "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/1920w/products/757/4035/Carver2023_Completes_2up_TrippyHippy_C7__79372.1691704344.png",
+      "discription":"Carver 30.25'' Trippy Hippy Surfskate Complete C7",
+      "price":"$272.00"
+    },
+    {
+      "id": 3,
+      "title":"CARVER",
+      "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/1920w/products/762/4056/Carver2023_Completes_2up_Snapper_CX__39285.1691706151.png",
+      "discription":"Carver 28'' Snapper Surfskate Complete CX",
+      "price":"$250.00"
+    },
+    {
+      "id": 4,
+      "title":"CARVER",
+      "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/1920w/products/759/4075/supernova_C7_ecom__87267.1692681023.jpg",
+      "discription":"Carver x GRLSWIRL 31 Yang Yin CX Surfskate",
+      "price":"$270.00"
+    }
+  ],
+  "LostCollection": [
+    {
+      "id": 1,
+      "title":"CARVER",
+      "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/732/4023/2023-yago-firegoat-c7__04627.1687997451.jpg?c=1",
+      "discription":"Carver x GRLSWIRL 31 Yang Yin CX Surfskate",
+      "price":"$270.00"
+    },
+    {
+      "id": 2,
+      "title":"CARVER",
+      "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/738/3952/2023_lost_rad_ripper_c7__43669.1686805502.jpg?c=1",
+      "discription":"Carver 30.25'' Trippy Hippy Surfskate Complete C7",
+      "price":"$272.00"
+    },
+    {
+      "id": 3,
+      "title":"CARVER",
+      "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/735/3938/2023_ci_happy_every_day_cx__76754.1686804548.jpg?c=1",
+      "discription":"Carver 28'' Snapper Surfskate Complete CX",
+      "price":"$250.00"
+    },
+    {
+      "id": 4,
+      "title":"CARVER",
+      "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/741/3964/2023_lost_retro_tripper_cx__35453.1686806241.jpg?c=1",
+      "discription":"Carver x GRLSWIRL 31 Yang Yin CX Surfskate",
+      "price":"$270.00"
+    }
   ]
   
 }

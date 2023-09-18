@@ -1,0 +1,32 @@
+li{
+    list-style: none;
+}
+
+@media (max-width: 899px) {
+    .Main {  
+        display: grid !important;
+        grid-template-columns: repeat(1,1fr) !important;
+    }
+    .email{
+        margin-left: 250px !important;
+    }
+    
+  }
+
+  @media (min-width:  368px) and (max-width: 522px) {
+    /* … */
+    .Main {
+        display: grid !important;
+        grid-template-columns: repeat(1,1fr) !important;
+    }
+    
+    .email{
+        margin-left: 140px !important;
+    }
+    .Info{
+        display: grid !important;
+        grid-template-columns: repeat(2,1fr) !important;
+        margin-left: 50px !important;
+    }
+    
+  }

@@ -1,9 +1,10 @@
 import React from 'react'
 import {Routes, Route} from "react-router-dom"
-import HomePage from '../pages/HomePage'
+
 import Login from '../pages/Login'
 import Products from '../pages/Products'
 import Cart from '../pages/Cart'
+import HomePage from '../pages/Home/HomePage'
 const AllRoutes = () => {
   return (
     <div>
