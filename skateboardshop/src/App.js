@@ -5,15 +5,15 @@ import Footer from "./components/Footer";
 const middleLinks = [
   {
     tab: "SURFSCATES",
-    path: "",
+    path: "products",
   },
   {
     tab: "EXTRAS",
-    path: "login",
+    path: "",
   },
   {
     tab: "CLOTHES AND ACCESSORIES",
-    path: "products",
+    path: "",
   },
   {
     tab: "SALE",
