@@ -17,31 +17,16 @@ const middleLinks = [
   },
   {
     tab: "SALE",
-    path: "xyz",
+    path: "",
   },
 ]; 
-
-const endLinks = [
-  {
-    tab: "SEARCH",
-    path: "sdf",
-  },
-  {
-    tab: "WISHLIST",
-    path: "dfg",
-  },
-  {
-    tab: "BAG",
-    path: "cart",
-  }
-];
 
 
 
 function App() {
   return (
     <div className="App">    
-        <Navbar middleLinks={middleLinks} endLinks={endLinks}/>
+        <Navbar middleLinks={middleLinks}/>
         <AllRoutes/>   
         <Footer/> 
     </div>
