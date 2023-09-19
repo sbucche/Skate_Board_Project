@@ -10,7 +10,7 @@ export const getCartAction=()=>async(dispatch)=>{
         const res=await axios.get(cartUrl);
         dispatch({type:GET_DATA_SUCCESS,payload:res.data})
         // const data=res.data
-        // console.log("getCartAction",res);
+        console.log("getCartAction",res);
     } catch (error) {
         dispatch({type:GET_DATA_ERROR})
         // console.log(error)
